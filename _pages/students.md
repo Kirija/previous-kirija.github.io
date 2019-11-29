@@ -9,16 +9,21 @@ redirect_from:
 
 ## Current
 
-  - [Benjamin Benni](http://www.i3s.unice.fr/~benni/), PhD, 2016 - ...
-  - Sébastien Bonnieux, PhD, 2018 - ...
-    - co-supervised with Mireille Blay-Fornarino
+  - Cédric Lefebvre - co-supervised with Carlos Aguilar - 2014-2020 - Application of Homomorphic Encryption to Privacy Enhancing Technologies
+  - Antoine Laurent - co-supervised with Sébastien Gambs - 2019-20xx - Geoprivacy
 
 ## Alumni
 
-  - [Gunther Jungbluth](https://www.linkedin.com/in/günther-jungbluth-97364a11b/), MSc 2018, now lead architect at Games Lab.
-  - [Ivan Logre](https://www.linkedin.com/in/logre/), PhD 2017, MSc 2013. Now postdoc at Université Grenoble Alpes.
-  - [Cyril Cecchinel](https://www.linkedin.com/in/cyrilcecchinel/), PhD 2017, MSc 2014. Now research engineer at DataThings.
-    - co-supervised with Philippe Collet
-  - [Alexandre Feugas](https://www.linkedin.com/in/alexandre-feugas-200a7316/), PhD, 2014. Now senior R&D consultant at F. Incivitas.
-    - co-supervised with Laurence Duchien
-  - Eirik Brandtzæg MSc, 2011. Now software engineer.
+  - Ulrich Aïvodji - co-supervised with Marie-Jo Huguet - 2018 - Technologies respectueuses de la vie privée pour le covoiturage - Postdoc UQAM
+  - Joris Barrier - co-supervised with Carlos Aguilar - 2016 - Chiffrement homomorphe appliqué au retrait d’information privé - Ingénieur Sécurité Airbus, France
+  - Moussa Traoré - co-supervised with Matthieu Roy - 2015 - Sécurité et protection de la vie privée dans les preuves de localisation - Architecture Sécurité Cap- Gemini, France
+  - Miguel Nunez del Prado Cortez - co-supervised with Sébastien Gambs - 2013 - Attaques d’inférences sur données géolocalisées - Professeur Universidad del Pacifico, Pérou
+  - Hoang Nam Chu - co-supervised with David Powell - 2011 - Test et évaluation de la robustesse de la couche fonctionnelle d’un robot autonome
+  - Caroline Lu - co-supervised with Jean-Charles Fabre - 2009 - Logiciel embarqué automobile, Réflexivité, Tolérance aux fautes - Ingénieure de Recherche Valéo Siemens, Allemagne
+  - Thomas Pareaud - co-supervised with Jean-Charles Fabre - 2009 - Adaptation en ligne de mécanismes de tolérance aux fautes par une approche à composants ouverts - Ingénieur de Recherche EADS, France
+  - Benjamin Lussier - co-supervised with David Powell - 2007 - Tolérance aux fautes dans les systèmes autonomes - Professeur Université Tech- nologique de Compiègne, France
+  - Ludovic Courtès - co-supervised with David Powell - 2007 - Sauvegarde coopérative de données pour dispositifs mobiles - Ingénieur de Recherche INRIA, France
+  - Taha Bennani - co-supervised with Jean-Charles Fabre - 2005 - Tolérance aux fautes dans les systèmes répartis à base d’intergiciels réflexifs standards - Professeur Université de Tunis, Tunisie
+  - François Taïani - co-supervised with Jean-Charles Fabre - 2004 - Réflexivité dans les architectures multi- niveaux : application aux systèmes tolérant les fautes - Professeur Université de Rennes, France
+  - Juan-Carlos Ruiz-Garcia - co-supervised with Jean-Charles Fabre - 2002 - Validation de systèmes réflexifs tolérants aux fautes - Professeur Universitat Politècnica de València, Espagne
+  
