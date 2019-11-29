@@ -124,9 +124,9 @@ author:
   researchUri      : ""
   dblp             : "https://dblp.uni-trier.de/pers/hd/k/Killijian:Marc=Olivier.html"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:killijian.marc-olivier@uqam.ca
+    # - label: "Email"
+   #    icon: "fas fa-fw fa-envelope-square"
+   #    url: mailto:killijian.marc-olivier@uqam.ca
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
