@@ -95,8 +95,9 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: 
+  links:
     - "https://www.linkedin.com/in/marcokillijian/"
+
 
 # Analytics
 analytics:
@@ -109,7 +110,7 @@ analytics:
 # Site Author
 author:
   name             : *mokill
-  avatar           : "assets/images/photo identité MOK.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"assets/images/photo identité MOK.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "You'll have to know me"
   location         : "MTL"
   email            :
