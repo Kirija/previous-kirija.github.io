@@ -2,6 +2,9 @@
 title: "Supervised Students"
 permalink: /students/
 author_profile: true
+redirect_from:
+  - /Students/
+  - /students/
 ---
 
 ## Current
