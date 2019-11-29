@@ -22,7 +22,7 @@ comment:
 ---
 
 
-Hello world
+
 <!-- <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-success">Success</span> -->
 
@@ -33,3 +33,9 @@ An important part of my research is concerned with exploiting the latest develop
 <span class="badge badge-pill badge-primary">GDR</span> I am deputy director of the [Groupement de Recherche (GDR) Sécurité Informatique](https://gdr-securite.irisa.fr) which hosts all french researchers on Computer Security under a common virtual laboratory.
 
 <span class="badge badge-pill badge-warning">Secondment</span> I am a _Directeur de Recherche_ [_CNRS_](https://cnrs.fr) on secondment. You can find my previous professional webpage [here](https://homepages.laas.fr/~mkilliji). -->
+
+## Hiver 2020
+- [INM6000 Informatique et Société](2020-W-INM6000)
+
+## Archives
+- [Privacy/Geoprivacy@SupAero](https://homepages.laas.fr/BEPrivacy)
