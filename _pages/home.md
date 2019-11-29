@@ -12,9 +12,12 @@ comment:
 
 ---
 
-<div style="float:right; margin-bottom: 1em; margin-left: 1em;">
+<!-- <div style="float:right; margin-bottom: 1em; margin-left: 1em;">
   <img src="/images/teacher.png" />
-</div>
+</div> -->
+
+
+HOME
 
 <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-success">Success</span>

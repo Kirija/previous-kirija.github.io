@@ -16,6 +16,9 @@ comment:
   <img src="/images/teacher.png" />
 </div> -->
 
+
+ABBOUT
+
 <span class="badge badge-pill badge-primary">Primary</span>
 <span class="badge badge-pill badge-success">Success</span>
 
