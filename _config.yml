@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : *mokill
-  avatar           : "assets/images/photo\ identité\ MOK.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/photo identité MOK.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "You'll have to know me"
   location         : "MTL"
   email            :
