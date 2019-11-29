@@ -150,7 +150,7 @@ fr: &DEFAULT_FR
   comment_form_comment_label : "Commentaire"
   comment_form_md_info       : "Markdown est supporté."
   comment_form_name_label    : "Nom"
-  comment_form_email_label   : "Adresse mail"
+  comment_form_email_label   : "Adresse courriel"
   comment_form_website_label : "Site web (optionnel)"
   comment_btn_submit         : "Envoyer"
   comment_btn_submitted      : "Envoyé"
