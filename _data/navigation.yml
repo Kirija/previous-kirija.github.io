@@ -2,8 +2,14 @@
 main:
   - title: "Teaching"
     url: /Teaching/
-  - title: "Students"
+  - title: "Students/Positions"
     url: /Students/
+  - title: "Publications"
+    url: /Publications/
+  - title: "CV"
+	url: /CV/
+  - title: "Research"
+	url: /Research/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
