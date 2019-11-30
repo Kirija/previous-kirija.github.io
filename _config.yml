@@ -427,16 +427,16 @@ compress_html:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: # true
-      comments: # true
-      share: true
-      related: true
+  # - scope:
+ #      path: ""
+ #      type: posts
+ #    values:
+ #      layout: single
+ #      author_profile: true
+ #      read_time: # true
+ #      comments: # true
+ #      share: true
+ #      related: true
   # _pages
   - scope:
       path: ""
@@ -446,6 +446,33 @@ defaults:
       author_profile: true
       read_time: # true
       comments: # true
+  # _teaching
+  - scope:
+    path: ""
+    type: teaching
+    values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+  # _publications
+  - scope:
+    path: ""
+    type: publications
+    values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+  # _students
+  - scope:
+    path: ""
+    type: students
+    values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
       #share: true
       #related: true
     # - label: "Website"
