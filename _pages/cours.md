@@ -1,5 +1,5 @@
 ---
-permalink: /Teaching/
+permalink: /teaching/
 title: "Enseignements"
 excerpt: "Mes cours"
 author_profile: true
