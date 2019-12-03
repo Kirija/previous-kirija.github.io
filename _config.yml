@@ -454,7 +454,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: home
       author_profile: true
       read_time: # true
       comments: # true
